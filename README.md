@@ -1,4 +1,4 @@
-# WaitForAsyncAssigns
+# wait_for_async_assigns
 
 Prevents "DBConnection.ConnectionError: client exited" errors in Phoenix LiveView tests
 
